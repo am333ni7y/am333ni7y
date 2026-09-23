@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Self-Hosted Google Material 3 Header Banner (100% Reliable, Zero External Dependencies) -->
-<img src="./assets/banner.svg" width="100%" alt="Ameeen Material 3 Banner" />
+<img src="./assets/header.svg" width="100%" alt="Ameeen Material 3 Banner" />
 
 <br>
 
@@ -31,7 +31,7 @@
 ### 🔍 Simulated Google SERP (Rank #1)
 
 <div align="center">
-  <img src="./assets/google-serp.svg" width="100%" alt="Simulated Google SERP Result for Ameeen" />
+  <img src="./assets/serp-preview.svg" width="100%" alt="Simulated Google SERP Result for Ameeen" />
 </div>
 
 ---
@@ -51,7 +51,7 @@ Rather than treating digital marketing and web development as separate silos, I 
 ### 🛠️ Specialized Arsenal & AI Stack
 
 <div align="center">
-  <img src="./assets/tools-ecosystem.svg" width="100%" alt="Tools Ecosystem: Google Ads, GSC, GA4, WordPress, Elementor, PHP, Gemini, Claude, ChatGPT, Antigravity" />
+  <img src="./assets/tech-matrix.svg" width="100%" alt="Tools Ecosystem: Google Ads, GSC, GA4, WordPress, Elementor, PHP, Gemini, Claude, ChatGPT, Antigravity" />
 </div>
 
 ---
