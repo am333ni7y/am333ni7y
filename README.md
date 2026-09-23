@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Google Material 3 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b57d0&height=140&section=header&text=AMEEEN&fontSize=52&fontColor=ffffff&desc=Technical%20SEO%20%7C%20Google%20Ads%20%7C%20WordPress%20%26%20PHP%20%7C%20Vibe%20Coder&descSize=16&descAlignY=70&descAlign=50" width="100%" />
+<!-- Self-Hosted Google Material 3 Header Banner (100% Reliable, Zero External Dependencies) -->
+<img src="./assets/banner.svg" width="100%" alt="Ameeen Material 3 Banner" />
 
 <br>
 
@@ -28,6 +28,14 @@
 
 ---
 
+### 🔍 Simulated Google SERP (Rank #1)
+
+<div align="center">
+  <img src="./assets/google-serp.svg" width="100%" alt="Simulated Google SERP Result for Ameeen" />
+</div>
+
+---
+
 ### 🌐 Overview & Philosophy
 
 > **"I bridge the gap between search algorithms, paid acquisition, and rock-solid web infrastructure — powered by creative vibe-coding."**
@@ -37,6 +45,14 @@ Rather than treating digital marketing and web development as separate silos, I 
 - **Paid Acquisition (Google Ads):** High-intent funnel design, Quality Score optimization, and reliable conversion measurement.
 - **Web Infrastructure (WordPress & PHP):** Bespoke themes, clean PHP hooks, sub-second Core Web Vitals, and deep technical troubleshooting.
 - **The Vibe-Coding Edge:** Whenever I hit a manual bottleneck, I don't wait for third-party software. I architect the idea and **vibe-code** custom AI agents, MCP servers, and scripts to automate it.
+
+---
+
+### 🛠️ Specialized Arsenal & AI Stack
+
+<div align="center">
+  <img src="./assets/tools-ecosystem.svg" width="100%" alt="Tools Ecosystem: Google Ads, GSC, GA4, WordPress, Elementor, PHP, Gemini, Claude, ChatGPT, Antigravity" />
+</div>
 
 ---
 
@@ -156,21 +172,6 @@ flowchart LR
 
 ---
 
-### 🛠️ Material Tech & Tools Index
-
-<div align="center">
-
-| Ecosystem | Weaponry & Platforms |
-| :--- | :--- |
-| **Search & SEO** | Google Search Console &bull; Google Analytics 4 &bull; Screaming Frog &bull; Schema.org &bull; Link Graphs |
-| **Paid Media (PPC)** | Google Ads (Search, Display, Performance Max) &bull; Google Tag Manager &bull; CRO & Conversion APIs |
-| **Web & Backend** | WordPress &bull; Elementor Pro &bull; PHP (Hooks, Custom Themes, CPTs) &bull; WP-CLI &bull; Core Web Vitals |
-| **Vibe-Coding Stack** | Model Context Protocol (MCP) &bull; Python (Crawlers, Scripts) &bull; AI Agents (Claude, Cursor, Antigravity) &bull; Git |
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Build
@@ -185,10 +186,8 @@ Looking for high-impact Technical SEO, data-driven Google Ads scaling, or deep W
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0b57d0&height=12&section=footer" width="100%" />
-
 <p align="center">
-  <sub>Designed with Material 3 Principles &bull; Crafted by Ameeen</sub>
+  <sub>Designed with Material 3 Principles &bull; Crafted by Ameeen &bull; 100% Self-Hosted Assets</sub>
 </p>
 
 </div>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="m3-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B57D0" />
+      <stop offset="60%" stop-color="#0842A0" />
+      <stop offset="100%" stop-color="#042C71" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A73E8" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#34A853" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#FBBC04" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.2" />
+    </filter>
+  </defs>
+
+  <style>
+    .brand-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Google Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 48px;
+      font-weight: 800;
+      fill: #FFFFFF;
+      letter-spacing: 2px;
+    }
+    .brand-sub {
+      font-family: -apple-system, BlinkMacSystemFont, 'Google Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 500;
+      fill: #D3E3FD;
+      letter-spacing: 0.5px;
+    }
+    .chip-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Google Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #FFFFFF;
+    }
+  </style>
+
+  <!-- Card Container -->
+  <rect x="2" y="2" width="846" height="196" rx="20" fill="url(#m3-bg)" stroke="#7CABDA" stroke-opacity="0.3" stroke-width="1.5" />
+  
+  <!-- Subtle Ambient Glows -->
+  <circle cx="780" cy="40" r="140" fill="url(#glow)" filter="blur(30px)" />
+  <circle cx="80" cy="180" r="100" fill="url(#glow)" filter="blur(25px)" />
+
+  <!-- Badge Top -->
+  <g transform="translate(425, 42)">
+    <rect x="-135" y="-14" width="270" height="28" rx="14" fill="#042C71" fill-opacity="0.7" stroke="#4285F4" stroke-width="1" />
+    <circle cx="-116" cy="0" r="4" fill="#34A853" />
+    <text x="-104" y="4" font-family="-apple-system, 'Google Sans', sans-serif" font-size="11" font-weight="700" fill="#E8F0FE" letter-spacing="1">GOOGLE MATERIAL 3 SYSTEM</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="425" y="105" text-anchor="middle" class="brand-title">⚡ AMEEEN</text>
+  <text x="425" y="136" text-anchor="middle" class="brand-sub">Technical SEO Architect  •  Google Ads  •  WordPress &amp; PHP  •  Vibe Coder</text>
+
+  <!-- Bottom Chips Grid -->
+  <g transform="translate(425, 168)">
+    <!-- Chip 1: SEO -->
+    <g transform="translate(-300, 0)">
+      <rect x="-85" y="-12" width="170" height="24" rx="12" fill="#1A73E8" fill-opacity="0.4" stroke="#7CABDA" stroke-width="1" />
+      <text x="0" y="4" text-anchor="middle" class="chip-text">🔍 Algorithmic SEO</text>
+    </g>
+
+    <!-- Chip 2: Google Ads -->
+    <g transform="translate(-100, 0)">
+      <rect x="-85" y="-12" width="170" height="24" rx="12" fill="#E37400" fill-opacity="0.4" stroke="#F9AB00" stroke-width="1" />
+      <text x="0" y="4" text-anchor="middle" class="chip-text">🎯 Google Ads (ROAS)</text>
+    </g>
+
+    <!-- Chip 3: WordPress & PHP -->
+    <g transform="translate(100, 0)">
+      <rect x="-85" y="-12" width="170" height="24" rx="12" fill="#7950F2" fill-opacity="0.4" stroke="#B197FC" stroke-width="1" />
+      <text x="0" y="4" text-anchor="middle" class="chip-text">⚡ WordPress &amp; PHP</text>
+    </g>
+
+    <!-- Chip 4: Vibe Coding -->
+    <g transform="translate(300, 0)">
+      <rect x="-85" y="-12" width="170" height="24" rx="12" fill="#137333" fill-opacity="0.4" stroke="#81C995" stroke-width="1" />
+      <text x="0" y="4" text-anchor="middle" class="chip-text">🤖 Vibe-Coded Tooling</text>
+    </g>
+  </g>
+</svg>
