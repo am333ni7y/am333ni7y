@@ -6,7 +6,7 @@
 <br>
 
 <a href="https://ameeen.ir">
-  <img src="https://readme-typing-svg.demolab.com/?font=Google+Sans&size=20&pause=1200&color=1A73E8&center=true&vCenter=true&width=750&lines=Engineering+algorithmic+SEO+%26+Information+Retrieval;Scaling+high-ROAS+Google+Ads+%26+performance+funnels;Mastering+WordPress+development%2C+Elementor+Pro+%26+PHP;Ideating+custom+tools+%26+vibe-coding+them+with+AI;Troubleshooting+complex+web+app+%26+CMS+bottlenecks" alt="Ameeen Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Google+Sans&size=20&pause=1200&color=1A73E8&center=true&vCenter=true&width=750&lines=Engineering+algorithmic+SEO+%26+Information+Retrieval;Scaling+high-ROAS+Google+Ads+%26+performance+funnels;Mastering+WordPress+development%2C+Elementor+Pro+%26+PHP;Architecting+custom+marketing+tools+%26+AI+automation;Troubleshooting+complex+web+app+%26+CMS+bottlenecks" alt="Ameeen Typing Headline" />
 </a>
 
 <br>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Core_Focus-Technical_SEO_%26_Growth-1a73e8?style=flat-square" />
 <img src="https://img.shields.io/badge/PPC-Google_Ads_Engineering-e37400?style=flat-square" />
 <img src="https://img.shields.io/badge/CMS-WordPress_%26_PHP_Specialist-7950f2?style=flat-square" />
-<img src="https://img.shields.io/badge/Superpower-Creative_Vibe_Coding-137333?style=flat-square" />
+<img src="https://img.shields.io/badge/Superpower-Custom_Toolmaker_%26_Automation-137333?style=flat-square" />
 
 </div>
 
@@ -38,13 +38,13 @@
 
 ### 🌐 Overview & Philosophy
 
-> **"I bridge the gap between search algorithms, paid acquisition, and rock-solid web infrastructure — powered by creative vibe-coding."**
+> **"I bridge the gap between search algorithms, paid acquisition, and rock-solid web infrastructure — powered by custom automation & toolmaking."**
 
 Rather than treating digital marketing and web development as separate silos, I engineer them as a single cohesive growth engine:
 - **Search Engines (SEO):** Deep understanding of information retrieval, internal link graphs, and crawl budget mechanics.
 - **Paid Acquisition (Google Ads):** High-intent funnel design, Quality Score optimization, and reliable conversion measurement.
 - **Web Infrastructure (WordPress & PHP):** Bespoke themes, clean PHP hooks, sub-second Core Web Vitals, and deep technical troubleshooting.
-- **The Vibe-Coding Edge:** Whenever I hit a manual bottleneck, I don't wait for third-party software. I architect the idea and **vibe-code** custom AI agents, MCP servers, and scripts to automate it.
+- **Custom Tooling & Automation:** Whenever I hit a manual bottleneck, I don't wait for third-party software. I architect the solution and engineer custom AI agents, MCP servers, and scripts to automate it.
 
 ---
 
@@ -87,7 +87,7 @@ Rather than treating digital marketing and web development as separate silos, I 
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 04. Vibe-Coding & Custom Toolmaking</h4>
+      <h4>🤖 04. Custom Tooling & AI Automation</h4>
       <ul>
         <li><b>Ideation to Reality:</b> Conceptualizing automation workflows and building them fast with AI agents.</li>
         <li><b>Agentic Tooling:</b> Custom Model Context Protocol (MCP) servers connecting CMSs to LLMs.</li>
@@ -99,9 +99,9 @@ Rather than treating digital marketing and web development as separate silos, I 
 
 ---
 
-### 🧪 The Vibe-Code Lab (In-House Tools & Projects)
+### 🛠️ In-House Tools & Automation Projects
 
-When existing marketing tools are bloated or missing critical features, I vibe-code my own solutions:
+When existing marketing tools are bloated or missing critical features, I architect and build my own solutions:
 
 <table>
   <thead>
@@ -150,7 +150,7 @@ When existing marketing tools are bloated or missing critical features, I vibe-c
 
 ### 🔄 The Growth & Automation Loop
 
-How strategy, execution, and vibe-coding feed into each other:
+How strategy, execution, and custom automation feed into each other:
 
 ```mermaid
 flowchart LR
@@ -159,7 +159,7 @@ flowchart LR
     C --> D["📈 Conversions & Revenue"]
 
     B -. "Manual Bottleneck" .-> E["💡 Ideate Tool"]
-    E --> F["🤖 Vibe-Code with AI<br>(MCP, Scripts, Dashboards)"]
+    E --> F["🤖 AI & Automation Tools<br>(MCP, Scripts, Dashboards)"]
     F -. "Automate & Scale" .-> A
 
     style A fill:#E8F0FE,stroke:#1A73E8,stroke-width:2px,color:#1A73E8

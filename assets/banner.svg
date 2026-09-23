@@ -54,7 +54,7 @@
 
   <!-- Main Headline -->
   <text x="425" y="105" text-anchor="middle" class="brand-title">⚡ AMEEEN</text>
-  <text x="425" y="136" text-anchor="middle" class="brand-sub">Technical SEO Architect  •  Google Ads  •  WordPress &amp; PHP  •  Vibe Coder</text>
+  <text x="425" y="136" text-anchor="middle" class="brand-sub">Technical SEO Architect  •  Google Ads  •  WordPress &amp; PHP  •  Tool Builder</text>
 
   <!-- Bottom Chips Grid -->
   <g transform="translate(425, 168)">
@@ -76,10 +76,10 @@
       <text x="0" y="4" text-anchor="middle" class="chip-text">⚡ WordPress &amp; PHP</text>
     </g>
 
-    <!-- Chip 4: Vibe Coding -->
+    <!-- Chip 4: Automation & Tooling -->
     <g transform="translate(300, 0)">
       <rect x="-85" y="-12" width="170" height="24" rx="12" fill="#137333" fill-opacity="0.4" stroke="#81C995" stroke-width="1" />
-      <text x="0" y="4" text-anchor="middle" class="chip-text">🤖 Vibe-Coded Tooling</text>
+      <text x="0" y="4" text-anchor="middle" class="chip-text">🤖 AI &amp; Automation</text>
     </g>
   </g>
 </svg>

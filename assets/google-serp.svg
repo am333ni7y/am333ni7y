@@ -28,7 +28,7 @@
     <path d="M18 16.5 L24 22.5 M20 15 A5 5 0 1 1 10 15 A5 5 0 0 1 20 15 Z" fill="none" stroke="#9AA0A6" stroke-width="2" stroke-linecap="round" />
     
     <!-- Query text -->
-    <text x="36" y="27" class="google-text search-query">best technical seo and vibe coder architect</text>
+    <text x="36" y="27" class="google-text search-query">best technical seo and google ads growth architect</text>
 
     <!-- Search bar right icons (Mic & Lens simulation) -->
     <g transform="translate(730, 12)">
@@ -61,11 +61,11 @@
     <text x="36" y="26" class="google-text breadcrumb">https://ameeen.ir › experts › ameeen</text>
 
     <!-- Main Title Link -->
-    <text x="0" y="52" class="google-text result-title">Ameeen (@am333ni7y) — Technical SEO Architect, Google Ads &amp; Vibe Coder</text>
+    <text x="0" y="52" class="google-text result-title">Ameeen (@am333ni7y) — Technical SEO Architect, Google Ads &amp; Web Engineer</text>
 
     <!-- Snippet Text -->
     <text x="0" y="74" class="google-text result-snippet">Mastering algorithmic search, crawl budget allocation, and link graph modeling. Scaling high-ROAS</text>
-    <text x="0" y="92" class="google-text result-snippet">Google Ads campaigns, resolving WordPress/PHP bottlenecks, and vibe-coding custom AI/MCP tools.</text>
+    <text x="0" y="92" class="google-text result-snippet">Google Ads campaigns, resolving WordPress/PHP bottlenecks, and building custom AI/MCP tools.</text>
 
     <!-- Sitelinks 2x2 Grid -->
     <g transform="translate(0, 110)">
@@ -93,7 +93,7 @@
       <!-- Sitelink 4 -->
       <g transform="translate(400, 60)">
         <rect x="0" y="0" width="380" height="52" rx="8" fill="#F8F9FA" stroke="#E8EAED" stroke-width="1" />
-        <text x="14" y="22" class="google-text sitelink-title">🤖 Vibe-Code Lab (In-House Tools)</text>
+        <text x="14" y="22" class="google-text sitelink-title">🛠️ Custom Tooling &amp; MCP Servers</text>
         <text x="14" y="38" class="google-text sitelink-desc">Custom MCP servers, AI agents, and marketing dashboards.</text>
       </g>
     </g>
