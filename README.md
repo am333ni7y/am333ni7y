@@ -1,166 +1,171 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=AMEEEN&fontSize=70&fontColor=fff&animation=fadeIn" width="100%" />
+<!-- Google Material 3 Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b57d0&height=140&section=header&text=AMEEEN&fontSize=52&fontColor=ffffff&desc=Technical%20SEO%20%7C%20Google%20Ads%20%7C%20WordPress%20%26%20PHP%20%7C%20Vibe%20Coder&descSize=16&descAlignY=70&descAlign=50" width="100%" />
 
-# ⚡ Ameeen (@am333ni7y)
+<br>
 
-**SEO Architect &bull; Performance Marketer &bull; WordPress & PHP Specialist &bull; Creative Vibe Coder**  
-*Turning Search Engines into Fans · Scaling Google Ads ROAS · Rock-Solid WordPress Infrastructure*
-
-<a href="https://github.com/am333ni7y">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Dominating+SERPs+with+algorithmic+Technical+SEO;Scaling+high-ROAS+Google+Ads+%26+Performance+Marketing;WordPress+engineering%2C+Elementor+Pro+%26+PHP+backend;Ideating+custom+marketing+tools+%26+vibe-coding+them+to+life;Fixing+complex+WordPress+bugs+%26+speed+bottlenecks" alt="Typing SVG" />
+<a href="https://ameeen.ir">
+  <img src="https://readme-typing-svg.demolab.com/?font=Google+Sans&size=20&pause=1200&color=1A73E8&center=true&vCenter=true&width=750&lines=Engineering+algorithmic+SEO+%26+Information+Retrieval;Scaling+high-ROAS+Google+Ads+%26+performance+funnels;Mastering+WordPress+development%2C+Elementor+Pro+%26+PHP;Ideating+custom+tools+%26+vibe-coding+them+with+AI;Troubleshooting+complex+web+app+%26+CMS+bottlenecks" alt="Ameeen Typing Headline" />
 </a>
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-ameeen.ir-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ameeen.ir)
-[![X / Twitter](https://img.shields.io/badge/Twitter-@ameeen__DM-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ameeen_DM)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/am333ni7y)
+<!-- Material 3 Quick Action Chips -->
+<a href="https://ameeen.ir"><img src="https://img.shields.io/badge/Official_Website-ameeen.ir-1a73e8?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<a href="https://twitter.com/ameeen_DM"><img src="https://img.shields.io/badge/X_/_Twitter-@ameeen__DM-202124?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://github.com/am333ni7y"><img src="https://img.shields.io/badge/GitHub-am333ni7y-137333?style=flat-square&logo=github&logoColor=white" /></a>
 
-<br>
+<br><br>
 
-![SEO Expertise](https://img.shields.io/badge/🔍_Technical_SEO-Core_Discipline-success?style=for-the-badge&labelColor=006400)
-![Google Ads](https://img.shields.io/badge/🎯_Google_Ads_%26_PPC-High_ROAS-4169E1?style=for-the-badge&labelColor=00008B)
-![WordPress & PHP](https://img.shields.io/badge/⚡_WordPress_%26_PHP-Deep_Engineering-21759B?style=for-the-badge&labelColor=1B365D)
-![Vibe Coding](https://img.shields.io/badge/🤖_Vibe_Coding-Custom_Toolmaker-FF8C00?style=for-the-badge&labelColor=8B4000)
-![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-DC143C?style=for-the-badge&labelColor=8B0000)
-
-</div>
-
----
-
-<div align="center">
-
-### 🧭 Quick Navigation
-
-[👋 About Me](#-about-me) · [🎯 Primary Arsenal](#-primary-arsenal--expertise) · [🧪 The Vibe-Code Lab](#-the-vibe-code-lab--fun-tools) · [🗺️ 2026 Roadmap](#️-2026-roadmap) · [📊 GitHub Stats](#-github-stats) · [🤝 Connect](#-lets-collaborate)
+<!-- Dynamic Status Chips -->
+<img src="https://img.shields.io/badge/Core_Focus-Technical_SEO_%26_Growth-1a73e8?style=flat-square" />
+<img src="https://img.shields.io/badge/PPC-Google_Ads_Engineering-e37400?style=flat-square" />
+<img src="https://img.shields.io/badge/CMS-WordPress_%26_PHP_Specialist-7950f2?style=flat-square" />
+<img src="https://img.shields.io/badge/Superpower-Creative_Vibe_Coding-137333?style=flat-square" />
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
+### 🌐 Overview & Philosophy
 
-## 👋 About Me
+> **"I bridge the gap between search algorithms, paid acquisition, and rock-solid web infrastructure — powered by creative vibe-coding."**
 
-```typescript
-const ameeen = {
-  identity:  "Digital Growth Strategist & WordPress Engineer with a Vibe-Coding Superpower",
-  location:  "🌍 Middle East · Open to Worldwide Collaborations",
-  
-  what_i_master: [
-    "🔍 Technical & Algorithmic SEO (Information Retrieval, crawl architecture, click depth)",
-    "🎯 Google Ads & Performance Marketing (High-intent campaigns, ROAS scaling, CRO funnels)",
-    "⚡ WordPress, Elementor Pro & PHP (Theme/plugin architecture, core troubleshooting, speed tuning)",
-  ],
-
-  how_i_build_tools: 
-    "I ideate the tools I need to break bottlenecks, then vibe-code them into reality using AI & modern runtimes.",
-
-  motto: "If it drives traffic, converts customers, or runs 10x faster — count me in.",
-};
-```
-
-> 💡 **The Vibe-Coder Mindset:** I'm not a traditional software dev grinding leetcode. I am a marketer and web specialist who understands what modern businesses actually need. When an off-the-shelf tool doesn't exist, I architect the concept and vibe-code custom AI tools, MCP servers, and scripts to get the job done.
+Rather than treating digital marketing and web development as separate silos, I engineer them as a single cohesive growth engine:
+- **Search Engines (SEO):** Deep understanding of information retrieval, internal link graphs, and crawl budget mechanics.
+- **Paid Acquisition (Google Ads):** High-intent funnel design, Quality Score optimization, and reliable conversion measurement.
+- **Web Infrastructure (WordPress & PHP):** Bespoke themes, clean PHP hooks, sub-second Core Web Vitals, and deep technical troubleshooting.
+- **The Vibe-Coding Edge:** Whenever I hit a manual bottleneck, I don't wait for third-party software. I architect the idea and **vibe-code** custom AI agents, MCP servers, and scripts to automate it.
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Primary%20Arsenal&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
+### 🧩 Core Pillars & Disciplines
 
-## 🎯 Primary Arsenal & Expertise
-
-### 🔍 1. Technical & Algorithmic SEO
-- **Search Architecture:** Information retrieval fundamentals, crawl budget allocation, site click-depth modeling.
-- **Auditing & Forensics:** Internal link graph analysis, orphan page elimination, Core Web Vitals optimization.
-- **Search Stack:** Google Search Console, Google Analytics 4, Screaming Frog, JSON-LD Schema.
-
-### 🎯 2. Performance Marketing & Google Ads
-- **Paid Acquisition:** High-intent Google Search campaigns, Display, Performance Max (PMax).
-- **Optimization:** Quality Score engineering, smart bidding strategies, audience segmentation.
-- **Conversion Tracking:** Google Tag Manager (GTM), GA4 event architectures, conversion rate optimization (CRO).
-
-### ⚡ 3. WordPress, Elementor Pro & PHP Engineering
-- **Custom Development:** Advanced PHP hooks/filters, custom post types, bespoke themes and functional extensions.
-- **Visual Engineering:** Pixel-perfect, responsive layouts with Elementor Pro — clean, lightweight, and conversion-focused.
-- **Support & Troubleshooting:** Resolving tricky PHP/database errors, plugin conflicts, speed bottlenecks, and security hardening.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 01. Technical & Algorithmic SEO</h4>
+      <ul>
+        <li><b>Information Retrieval:</b> Semantic topical authority, query-count HCU audits, and entity-first optimization.</li>
+        <li><b>Crawl Architecture:</b> Link equity distribution, click-depth reduction, and orphan page eradication.</li>
+        <li><b>Tools & Forensics:</b> Google Search Console, Screaming Frog, JSON-LD Schema, NetworkX graph modeling.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 02. Performance Marketing & Google Ads</h4>
+      <ul>
+        <li><b>Campaign Architecture:</b> High-intent Search campaigns, Performance Max (PMax), and Remarketing.</li>
+        <li><b>Efficiency:</b> Quality Score engineering, negative keyword strategies, and smart bidding optimization.</li>
+        <li><b>Tracking:</b> Google Tag Manager (GTM), GA4 event structures, Server-side tracking & CRO funnels.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ 03. WordPress, Elementor & PHP</h4>
+      <ul>
+        <li><b>Architecture:</b> Custom PHP hooks, filters, custom post types, and bespoke theme development.</li>
+        <li><b>Design Systems:</b> High-converting, pixel-perfect Elementor Pro builds with clean, lightweight assets.</li>
+        <li><b>Troubleshooting:</b> Debugging complex PHP/SQL errors, plugin conflicts, and Core Web Vitals (LCP/INP) tuning.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 04. Vibe-Coding & Custom Toolmaking</h4>
+      <ul>
+        <li><b>Ideation to Reality:</b> Conceptualizing automation workflows and building them fast with AI agents.</li>
+        <li><b>Agentic Tooling:</b> Custom Model Context Protocol (MCP) servers connecting CMSs to LLMs.</li>
+        <li><b>Dashboards:</b> Contributor to multi-brand marketing dashboards and data visualization tools.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=Vibe%20Code%20Lab&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
+### 🧪 The Vibe-Code Lab (In-House Tools & Projects)
 
-## 🧪 The Vibe-Code Lab & Fun Tools
+When existing marketing tools are bloated or missing critical features, I vibe-code my own solutions:
 
-> *Whenever I hit a manual bottleneck in marketing or CMS management, I dream up a tool and vibe-code it using AI agents, MCP, and scripts.*
-
-| Project / Tool | What It Does & Why I Built It | Stack / Vibe | Link |
-|---|---|---|---|
-| 🔌 **wordpress-mcp** | A custom Model Context Protocol (MCP) server letting AI agents (Claude, Cursor, Antigravity) manage WordPress via REST API & WP-CLI. | `TypeScript` · `MCP` · `AI Agents` | [Repo](https://github.com/am333ni7y/wordpress-mcp) |
-| 🕸️ **site-pages-graph** | An interactive tool that visually maps site architecture and click-depth to uncover link equity leaks. | `Python` · `Graph Analysis` | [Repo](https://github.com/am333ni7y/site-pages-graph) |
-| 🔍 **internal-link-auditor** | Async link crawler to find orphan pages and optimize internal link distribution effortlessly. | `Python` · `AsyncIO` | [Repo](https://github.com/am333ni7y/internal-link-graph-auditor) |
-| 💬 **teleconnect-wordpress** | A fun live chat tool bridging WordPress user conversations directly with Telegram. | `JavaScript` · `WordPress` | [Repo](https://github.com/am333ni7y/teleconnect-telegram-livechat-wordpress) |
-| 📊 **Marketing Dashboards** | Contributor to multi-brand marketing dashboards, performance analytics, and web app workflows. | `Collaborator` · `Next.js / Web Apps` | *Active* |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Concept & Solution</th>
+      <th>Primary Stack</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🔌 <b>wordpress-mcp</b></td>
+      <td>Dual-engine Model Context Protocol (MCP) server connecting WordPress to AI agents (Claude, Cursor, Antigravity) via REST API & WP-CLI.</td>
+      <td><code>TypeScript</code> <code>MCP</code> <code>WP-CLI</code></td>
+      <td><a href="https://github.com/am333ni7y/wordpress-mcp">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>🕸️ <b>site-pages-graph</b></td>
+      <td>Interactive Technical SEO site architecture visualizer, internal link graph mapper, and click-depth auditor.</td>
+      <td><code>Python</code> <code>Graph Analysis</code></td>
+      <td><a href="https://github.com/am333ni7y/site-pages-graph">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>🔍 <b>internal-link-auditor</b></td>
+      <td>Asynchronous link graph visualizer and orphan page auditor to streamline crawl efficiency.</td>
+      <td><code>Python</code> <code>AsyncIO</code></td>
+      <td><a href="https://github.com/am333ni7y/internal-link-graph-auditor">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>💬 <b>teleconnect-wordpress</b></td>
+      <td>Direct WordPress customer engagement bridge routing live site inquiries into Telegram.</td>
+      <td><code>JavaScript</code> <code>WordPress</code></td>
+      <td><a href="https://github.com/am333ni7y/teleconnect-telegram-livechat-wordpress">View Repo</a></td>
+    </tr>
+    <tr>
+      <td>📊 <b>Marketing Dashboards</b></td>
+      <td>Contributor to multi-brand marketing dashboards, performance analytics pipelines, and web app troubleshooting.</td>
+      <td><code>Collaborator</code> <code>Web Apps</code></td>
+      <td><i>Active Work</i></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=2026%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
+### 🔄 The Growth & Automation Loop
 
-## 🗺️ 2026 Roadmap
+How strategy, execution, and vibe-coding feed into each other:
 
 ```mermaid
-graph TB
-    A[🎯 2026 Focus Areas] --> B[🔍 SEO & Search Intelligence]
-    A --> C[🎯 Performance & Google Ads]
-    A --> D[⚡ WordPress & PHP Excellence]
-    A --> E[🧪 Vibe-Coded AI Tooling]
+flowchart LR
+    A["🔍 Data & Audit<br>(GSC, Crawl, Ads)"] --> B["🎯 Growth Strategy<br>(SEO & High-ROAS Ads)"]
+    B --> C["⚡ Web Engine<br>(WordPress, PHP, CWV)"]
+    C --> D["📈 Conversions & Revenue"]
 
-    B --> B1[Information Retrieval & Link Graphs]
-    B --> B2[Dynamic Crawling & Core Web Vitals]
+    B -. "Manual Bottleneck" .-> E["💡 Ideate Tool"]
+    E --> F["🤖 Vibe-Code with AI<br>(MCP, Scripts, Dashboards)"]
+    F -. "Automate & Scale" .-> A
 
-    C --> C1[PMax & High-ROAS Search Bidding]
-    C --> C2[Conversion Rate Engineering]
-
-    D --> D1[High-Speed Elementor Architectures]
-    D --> D2[Enterprise WordPress Support & Hardening]
-
-    E --> E1[WordPress Agentic Workflows via MCP]
-    E --> E2[Automated Marketing Helper Tools]
-
-    style A fill:#0284C7,stroke:#0369A1,color:#fff
-    style B fill:#10B981,stroke:#059669,color:#fff
-    style C fill:#3B82F6,stroke:#1D4ED8,color:#fff
-    style D fill:#8B5CF6,stroke:#7C3AED,color:#fff
-    style E fill:#F59E0B,stroke:#D97706,color:#fff
+    style A fill:#E8F0FE,stroke:#1A73E8,stroke-width:2px,color:#1A73E8
+    style B fill:#FEF7E0,stroke:#E37400,stroke-width:2px,color:#E37400
+    style C fill:#F3E8FD,stroke:#7950F2,stroke-width:2px,color:#7950F2
+    style D fill:#E6F4EA,stroke:#137333,stroke-width:2px,color:#137333
+    style E fill:#FFF0F2,stroke:#EA4335,stroke-width:2px,color:#EA4335
+    style F fill:#E8F0FE,stroke:#1A73E8,stroke-width:2px,color:#1A73E8
 ```
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 📊 GitHub Stats
+### 🛠️ Material Tech & Tools Index
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=am333ni7y&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=am333ni7y&theme=tokyonight&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am333ni7y&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=am333ni7y&theme=tokyo-night&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=am333ni7y&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+| Ecosystem | Weaponry & Platforms |
+| :--- | :--- |
+| **Search & SEO** | Google Search Console &bull; Google Analytics 4 &bull; Screaming Frog &bull; Schema.org &bull; Link Graphs |
+| **Paid Media (PPC)** | Google Ads (Search, Display, Performance Max) &bull; Google Tag Manager &bull; CRO & Conversion APIs |
+| **Web & Backend** | WordPress &bull; Elementor Pro &bull; PHP (Hooks, Custom Themes, CPTs) &bull; WP-CLI &bull; Core Web Vitals |
+| **Vibe-Coding Stack** | Model Context Protocol (MCP) &bull; Python (Crawlers, Scripts) &bull; AI Agents (Claude, Cursor, Antigravity) &bull; Git |
 
 </div>
 
@@ -168,28 +173,22 @@ graph TB
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="70%" />
+### 🤝 Let's Connect & Build
+
+Looking for high-impact Technical SEO, data-driven Google Ads scaling, or deep WordPress & PHP troubleshooting?
 
 <br>
 
-### 🌟 *"Rank higher, convert faster, and let AI-assisted tools handle the repetitive stuff."*
+<a href="https://ameeen.ir"><img src="https://img.shields.io/badge/Website-ameeen.ir-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://twitter.com/ameeen_DM"><img src="https://img.shields.io/badge/X_/_Twitter-@ameeen__DM-202124?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/am333ni7y"><img src="https://img.shields.io/badge/GitHub-am333ni7y-137333?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br>
+<br><br>
 
-### 🤝 Let's Collaborate
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b57d0&height=12&section=footer" width="100%" />
 
-Got an ambitious SEO challenge, looking to scale your Google Ads, or need expert WordPress & PHP support?
-
-[![Website](https://img.shields.io/badge/Visit-ameeen.ir-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ameeen.ir)
-[![Twitter](https://img.shields.io/badge/DM_on_X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ameeen_DM)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/am333ni7y)
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=35&fontColor=fff&fontAlignY=75" />
-
-**⚡ AMEEEN &bull; [ameeen.ir](https://ameeen.ir)**
-
-<img src="https://komarev.com/ghpvc/?username=am333ni7y&label=Profile%20Views&color=00B4D8&style=flat-square" />
+<p align="center">
+  <sub>Designed with Material 3 Principles &bull; Crafted by Ameeen</sub>
+</p>
 
 </div>
